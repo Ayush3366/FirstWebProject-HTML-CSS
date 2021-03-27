@@ -1,0 +1,207 @@
+body{
+	margin:0;
+	background-color:#EAF6F6;
+	height:1400px;
+	width:50%;    
+}
+.footerh4{
+	top:1200px;
+	left:350px;
+	margin-left:480px; 
+	font-family:verdana;
+	left:300px; 
+}	
+.footer{
+	height:70px;
+	width:200%; 
+	background-color:#66BFBF;
+	position:relative;
+	top:600px;
+	border-top:2px solid black; 
+	display:inline-block;
+	line-spacing:10px;      
+}
+.button{
+	border-radius:4px;
+	background-color:#66BFBF;
+	border:none;
+	color: #FFFFFF;
+	text-align:center;
+	font-size:28px;
+	padding:10px;
+	width:180px; 
+	transition:all; 0.5s;
+	cursor:pointer; 
+	position: relative;
+	top:560px;
+	left:540px;        
+}
+.button span{
+	cursor:pointer;
+	display:inline-block;
+	position:relative;
+	transition:0.5s;    
+}
+.button span:after{
+	content: "\00bb";
+	position: absolute;
+	opacity:0;
+	top:0;
+	right:-20px;
+	transition:0.5s;   
+
+}
+.button:hover span:after{
+	opacity:1;
+	right:0; 
+
+}
+.ifulove{
+	color:#66BFBF;
+	font-family:sans-serif;
+	font-size: 120%;
+	position:relative;
+	top:440px;
+	left:450px;
+}
+.ifulovepara{
+	position:absolute;
+	top:1200px;
+	left:350px;
+	font-family:verdana;
+}
+.getin{
+	color:#66BFBF;
+	position:relative;
+	top:420px;
+	right:300px;     
+}
+.GetIn{
+	position:absolute;
+	top:820px;
+	left:70px;   
+	color:#66BFBF;
+}
+.hr2{
+	position:absolute;
+	top:740px;
+	width:100px;
+	left:170px;
+	border-width:2px;
+	border-style:dotted;
+	color:gray;
+}
+.skills1img{
+	height:150px;
+	width:150px;
+	border-radius:100px;
+	position:relative;
+	left:420px;
+	top:420px
+}
+.HotWingsSkill{
+	height:400px; 
+	position:relative;
+	left:400px;
+}
+.Hotwingspapa{
+	position:relative;
+	top:570px;
+	right:100px;
+	font-family:verdana;
+}
+.HotWingsSkillh3{
+	position:relative; 
+	font-family:sans-serif;
+	font-size:120%;
+	color:#66BFBF;
+	top:580px;  
+	right:100px;  
+
+  
+}
+.DesignDevelopmenth3{
+	color:#66BFBF;
+	font-family:sans-serif;
+	font-size: 120%;
+	position:relative;
+	top:440px;
+	left:470px;    
+}
+.paraskills2{
+	position:absolute;
+	top:630px;
+	left:470px;
+	font-family:verdana;
+
+}
+.skills2img{
+	height:150px;
+	width:150px;
+	border-radius:100px;
+	position:relative;
+	left:300px;
+	top:600px;     
+}
+
+.top-div-San{
+	height:1200px; 
+
+}	
+.Sanfrancisco {
+	width:100%;
+	height:100%;
+
+
+}
+h1{
+	position:absolute; 
+	top:100px;
+	font-family:sans-serif;
+	left:480px;
+	font-size:400%; 
+	color:#66BFBF;
+
+}
+
+h2{	
+	position:absolute; 
+	top:190px;
+	font-family:sans-serif;
+	left:510px;
+	font-size:220%; 
+	color:gray;
+}
+
+.Hello{
+	position:absolute;
+	top:300px;
+	left:580px;   
+	color:#66BFBF;
+}
+
+.Hellopara{
+	position:absolute;
+	top:400px;
+	left:470px;
+	color:solid black;
+	font-family:verdana;
+
+}
+.hr1{
+	position:absolute;
+	top:440px;
+	width:100px;
+	left:580px;
+	border-width:2px;
+	border-style:dotted;
+	color: gray;  
+}
+
+.Myskills{
+	position:absolute; 
+	left:550px;
+	top:500px;
+	color:#66BFBF;
+  
+}
